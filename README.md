@@ -19,9 +19,8 @@ Traditional investing is often inaccessible to young or first-time investors due
 
 ## Tech Stack
 
-* **Frontend**: React Native
+* **Frontend**: Flutter
 * **Backend**: Node.js, Express
-* **Database**: MongoDB
 * **AI Models**:
 
   * PPO-based RL model for dynamic portfolio management
